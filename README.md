@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Mahrukh Saleem Qureshi (Mahrukh)</h1>
+  <h1>Mahrukh Saleem Qureshi </h1>
   <h3>Computational Bioinformatician · Geneticist · Data Scientist</h3>
 
   <p>
