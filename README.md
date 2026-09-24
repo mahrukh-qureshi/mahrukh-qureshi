@@ -14,7 +14,7 @@
 
 ### 🧬 About Me
 
-I am a **Computational Bioinformatician, Geneticist, and Data Scientist** with a strong research background in **Computational Genomics, Systems Biology, and Biomolecular Analytics**. Currently pursuing my **M.Phil in Bioinformatics at the University of Karachi**, my work bridges the gap between biological complexity and actionable computational insight.
+I am a **Computational Bioinformatician, Geneticist, and Data Scientist** with a strong research background in **Computational Genomics, Systems Biology, and Biomolecular Analytics**.  my work bridges the gap between biological complexity and actionable computational insight.
 
 I specialize in constructing end-to-end bioinformatics pipelines, characterizing functional gene families, analyzing RNA-seq differential expression, and designing interactive web applications that make complex biological data accessible and visual.
 
