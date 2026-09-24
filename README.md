@@ -18,7 +18,7 @@ I am a **Computational Bioinformatician, Geneticist, and Data Scientist** with a
 
 I specialize in constructing end-to-end bioinformatics pipelines, characterizing functional gene families, analyzing RNA-seq differential expression, and designing interactive web applications that make complex biological data accessible and visual.
 
-- 🎓 **Academic Background:** M.Phil Candidate in Bioinformatics | Secondary Pre-Medical & B.Sc. Graduate (University of Karachi)
+- 🎓 **Academic Background:** BS Genetics | DOT & B.Sc. Graduate (University of Karachi)
 - 🏆 **Achievements:** Selected for the Google Professional Certificates Scholarship Initiative (SFAO, University of Karachi)
 - 🔬 **Core Research:** Computational Genomics, RNA-Seq Differential Expression Analysis, Plant Gene Family Characterization (*Triticum aestivum*), and Bacterial Phylogenetics (*E. coli*, *S. enterica*, *S. sonnei*)
 - 💻 **Tech & Data Stack:** Python, R, SQL, Streamlit, HTML/CSS, Git, VS Code, Google Colab
