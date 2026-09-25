@@ -12,13 +12,13 @@
 
 ---
 
-I am a **Computational Bioinformatician, Geneticist, and Data Scientist** with a strong research background in **Computational Genomics, Systems Biology, and Biomolecular Analytics**.  my work bridges the gap between biological complexity and actionable computational insight.
+I am a **Computational Bioinformatician, Geneticist, and Data Scientist** with a strong research background in **Computational Genomics, Systems Biology, and Biomolecular Analytics**. Currently pursuing my **BS Genetics & BSc at the University of Karachi**, my work bridges the gap between biological complexity and actionable computational insight.
 
 I specialize in constructing end-to-end bioinformatics pipelines, characterizing functional gene families, analyzing RNA-seq differential expression, and designing interactive web applications that make complex biological data accessible and visual.
 
--🎓  **Academic Background:** BS Genetics | DOT & B.Sc. Graduate (University of Karachi)| Certified DATA Scientist (NED University)
--🏆  **Achievements:** Selected for the Google Professional Certificates Scholarship Initiative (University of Karachi)
--🔬 **Core Research:** Computational Genomics, RNA-Seq Differential Expression Analysis, Plant Gene Family Characterization (*Triticum aestivum*), and Bacterial Phylogenetics (*E. coli*, *S. enterica*, *S. sonnei*)
+- 🎓 **Academic Background:** BS Genetics | Certified Data Scientist (NED Univesity)| B.Sc. Graduate (University of Karachi)
+- 🏆 **Achievements:** Selected for the Google Professional Certificates Scholarship Initiative (University of Karachi)
+- 🔬 **Core Research:** Computational Genomics, RNA-Seq Differential Expression Analysis, Plant Gene Family Characterization (*Triticum aestivum*), and Bacterial Phylogenetics (*E. coli*, *S. enterica*, *S. sonnei*)
 - 💻 **Tech & Data Stack:** Python, R, SQL, Streamlit, HTML/CSS, Git, VS Code, Google Colab
 - 🧪 **Biomolecular Tools & Pipelines:** GROMACS, PharmCAT VCF Preprocessing, HMMER Domain Filtering, NCBI-CDD Verification, BLAST, Multiple Sequence Alignment (`ape`, `msa`), Graphviz
 - 📊 **Data Science & Visualization:** Principal Component Analysis (PCA) Biplots, Scree Plots, Heatmaps, 3D Developmental Surface Landscapes, Sunburst Diagrams, Violin Plots, and Statistical Correlation Matrices
@@ -38,7 +38,9 @@ I specialize in constructing end-to-end bioinformatics pipelines, characterizing
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-###  Featured Projects & Web Apps
+---
+
+### 🚀 Featured Projects & Web Apps
 
 - 🩺 **[AI Symptom Checker App](https://mahrukh-qureshi.github.io/mahrukh-ai-symptom/mahrukh_ai_symptom_checker.html)**  
   *Interactive web-based clinical survey and symptom analysis interface.*
@@ -46,6 +48,7 @@ I specialize in constructing end-to-end bioinformatics pipelines, characterizing
 - 🧬 **GenView & BioDecoder Applications**  
   *Streamlit web apps for real-time genomic sequence analysis and biological decoding.*
 
+---
 
 <div align="center">
 
