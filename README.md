@@ -12,7 +12,7 @@
 
 ---
 
-### 🧬 About Me
+###  About Me
 
 I am a **Computational Bioinformatician, Geneticist, and Data Scientist** with a strong research background in **Computational Genomics, Systems Biology, and Biomolecular Analytics**.  my work bridges the gap between biological complexity and actionable computational insight.
 
