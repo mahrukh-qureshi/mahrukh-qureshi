@@ -12,19 +12,17 @@
 
 ---
 
-###  About Me
-
 I am a **Computational Bioinformatician, Geneticist, and Data Scientist** with a strong research background in **Computational Genomics, Systems Biology, and Biomolecular Analytics**.  my work bridges the gap between biological complexity and actionable computational insight.
 
 I specialize in constructing end-to-end bioinformatics pipelines, characterizing functional gene families, analyzing RNA-seq differential expression, and designing interactive web applications that make complex biological data accessible and visual.
 
--  **Academic Background:** BS Genetics | DOT & B.Sc. Graduate (University of Karachi)| Certified DATA Scientist (NED University)
--  **Achievements:** Selected for the Google Professional Certificates Scholarship Initiative (SFAO, University of Karachi)
--  **Core Research:** Computational Genomics, RNA-Seq Differential Expression Analysis, Plant Gene Family Characterization (*Triticum aestivum*), and Bacterial Phylogenetics (*E. coli*, *S. enterica*, *S. sonnei*)
--  **Tech & Data Stack:** Python, R, SQL, Streamlit, HTML/CSS, Git, VS Code, Google Colab
--  **Biomolecular Tools & Pipelines:** GROMACS, PharmCAT VCF Preprocessing, HMMER Domain Filtering, NCBI-CDD Verification, BLAST, Multiple Sequence Alignment (`ape`, `msa`), Graphviz
--  **Data Science & Visualization:** Principal Component Analysis (PCA) Biplots, Scree Plots, Heatmaps, 3D Developmental Surface Landscapes, Sunburst Diagrams, Violin Plots, and Statistical Correlation Matrices
--  **Web & Software Tools:** Developer of interactive scientific web apps including **GenView**, **BioDecoder**, and image-to-table extraction tools powered by LLM APIs
+-🎓  **Academic Background:** BS Genetics | DOT & B.Sc. Graduate (University of Karachi)| Certified DATA Scientist (NED University)
+-🏆  **Achievements:** Selected for the Google Professional Certificates Scholarship Initiative (University of Karachi)
+-🔬 **Core Research:** Computational Genomics, RNA-Seq Differential Expression Analysis, Plant Gene Family Characterization (*Triticum aestivum*), and Bacterial Phylogenetics (*E. coli*, *S. enterica*, *S. sonnei*)
+- 💻 **Tech & Data Stack:** Python, R, SQL, Streamlit, HTML/CSS, Git, VS Code, Google Colab
+- 🧪 **Biomolecular Tools & Pipelines:** GROMACS, PharmCAT VCF Preprocessing, HMMER Domain Filtering, NCBI-CDD Verification, BLAST, Multiple Sequence Alignment (`ape`, `msa`), Graphviz
+- 📊 **Data Science & Visualization:** Principal Component Analysis (PCA) Biplots, Scree Plots, Heatmaps, 3D Developmental Surface Landscapes, Sunburst Diagrams, Violin Plots, and Statistical Correlation Matrices
+- 🌐 **Web & Software Tools:** Developer of interactive scientific web apps including **GenView**, **BioDecoder**, and image-to-table extraction tools powered by LLM APIs
 
 ---
 
